@@ -9,7 +9,7 @@ export default function Cardapio() {
     return(
         <main>
             <nav className={ styles.menu }>
-                <img src={logo} alt="logo casa del taco" />
+                <img src={logo} alt="logo casa da massa" />
             </nav>
             <header className={ styles.header }>
                 <div className={ styles.header__text }>
